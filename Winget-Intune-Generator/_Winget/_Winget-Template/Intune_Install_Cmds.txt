@@ -1,0 +1,26 @@
+Install:
+"%systemroot%\sysnative\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -ExecutionPolicy Bypass -File replacefile -AppIDs replaceappid
+
+Uninstall:
+"%systemroot%\sysnative\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -ExecutionPolicy Bypass -File replacefile -AppIDs replaceappid -Uninstall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
